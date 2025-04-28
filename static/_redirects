@@ -1,2 +1,3 @@
-# Redirect 404 errors to the home page (index.html)
+# Redirect all 404 pages to index.html
 /*    /index.html   200
+
